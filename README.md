@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Rachit S
 - 📫 How to reach me vangsur68@gmail.com..
-- 😄 Pronouns: he/him...
 
 <!---
 lmfaolmaolol/lmfaolmaolol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
